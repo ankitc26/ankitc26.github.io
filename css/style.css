@@ -658,6 +658,9 @@ body {
   text-align: center;
   width: 100%; }
 
+.navigation__list:before {
+  display: hidden; }
+
 .navigation__item {
   margin: 1rem; }
 
