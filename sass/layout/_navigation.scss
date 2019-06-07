@@ -82,6 +82,10 @@
             color: $color-primary;
             transform: translateX(1rem);
         }
+
+        &:before {
+            display: hidden;
+        }
     }
 
     //FUNCTIONALITY
